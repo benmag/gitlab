@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 2.5.0 (released 2016-07-11)
+
+- Dropped php 5.5 support
+
 ## 2.4.0 (released 2016-05-05)
 
 - Added laravel 5.3 support
